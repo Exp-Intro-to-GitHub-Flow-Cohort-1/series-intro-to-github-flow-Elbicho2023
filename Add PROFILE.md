@@ -1,1 +1,1 @@
-my first git
+Welcome to my GitHub profile!
